@@ -28,4 +28,29 @@ Monitoring the health of the business through:
 * **Order Volume:** Totaling 830+ unique orders with over 51.3K units sold.
 
 ### 2. Product & Pareto Analysis (80/20 Rule)
-* **High-Impact Products:** Identified the top 20% of products (35 items) that generate 80% of
+* **High-Impact Products:** Identified the top 20% of products (35 items) that generate 80% of the total revenue.
+* **Pricing Tiers:** Segmented products into Budget, Mid-Range, and Premium to analyze how pricing affects sales volume.
+
+### 3. Logistics & Shipper Performance
+* **Fastest Shipper:** Identified Federal Shipping as the most efficient partner.
+* **Global Reach:** Visualized sales distribution across global regions to identify top-performing markets.
+
+### 4. Employee Productivity
+* Developed a leaderboard to rank employees based on total revenue generated and their efficiency in processing orders.
+
+## 🎨 Dashboard Preview
+The dashboard consists of multiple reporting layers:
+1. **Sales Overview:** High-level KPIs and category performance.
+2. **Logistics Page:** Shipping trends and carrier performance.
+3. **Customer Insights:** VIP customer tracking and geographic distribution.
+
+---
+
+## 👩‍💻 About Me
+**Maryam Helal** *CS Student at Qena National University*
+
+* [LinkedIn](www.linkedin.com/in/maryameldalal)
+* [GitHub Profile](https://github.com/Maryam-Helal)
+
+---
+*If you find this project interesting, feel free to star the repository!*
