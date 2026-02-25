@@ -49,8 +49,8 @@ The dashboard consists of multiple reporting layers:
 ## 👩‍💻 About Me
 **Maryam Helal** *CS Student at Qena National University*
 
-* [LinkedIn](www.linkedin.com/in/maryameldalal)
-* [GitHub Profile](https://github.com/Maryam-Helal)
+*  [LinkedIn Profile](https://www.linkedin.com/in/maryameldalal)
+*  [GitHub Profile](https://github.com/Maryam-Helal)
 
 ---
 *If you find this project interesting, feel free to star the repository!*
