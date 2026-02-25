@@ -1,2 +1,31 @@
-# Date_Analysis_Amazon_Dashboard
-End-to-End Sales Intelligence Dashboard: From Raw SQL Data Cleaning to Advanced Power BI Insights. Featuring Pareto Analysis, Logistics Optimization, and Employee Performance Tracking
+# 📊 Amazon Sales & Logistics Performance Analysis
+### An End-to-End Data Analytics Project (SQL + Power BI)
+
+## 📝 Project Overview
+This project presents a comprehensive analysis of the Amazon (Northwind) Database. It demonstrates the ability to handle the entire data life cycle: from writing complex SQL queries to extract and transform data, to building an interactive and insightful Power BI dashboard for business decision-making.
+
+The project focuses on three key business pillars: Sales Growth, Logistics Efficiency, and Employee Productivity.
+
+## 🛠️ Tech Stack & Tools
+* **SQL Server (T-SQL):** Data extraction, cleaning, and advanced analytical queries.
+* **Power BI Desktop:** Data modeling (Star Schema) and interactive visualizations.
+* **DAX:** Creating calculated measures for KPIs and business logic.
+
+## 📂 Project Files
+You can access the core components of the project through the following links:
+
+* [**Database Source Script**](https://github.com/Maryam-Helal/Date_Analysis_Amazon-Dashboard/blob/main/Amazon%20Database.txt): The raw SQL script used to build the database schema and populate data.
+* [**SQL Analytical Queries**](https://github.com/Maryam-Helal/Date_Analysis_Amazon-Dashboard/blob/main/SQLQuery%20(Amazon).sql): Advanced queries including Pareto Analysis and Sales KPIs.
+* [**Power BI Report (PBIX)**](https://github.com/Maryam-Helal/Date_Analysis_Amazon-Dashboard/blob/main/Amazon.pbix): The full interactive dashboard file for local exploration.
+* [**Final Project Report (PDF)**](https://github.com/Maryam-Helal/Date_Analysis_Amazon-Dashboard/blob/main/Amazon%20Project.pdf): A documented summary and screenshots of the dashboard insights.
+
+## 🔍 Analytical Insights
+I have applied several analytical techniques in this project:
+
+### 1. Executive KPIs
+Monitoring the health of the business through:
+* **Total Revenue:** Exceeded $1.3M with a growth rate of +340.62% against goals.
+* **Order Volume:** Totaling 830+ unique orders with over 51.3K units sold.
+
+### 2. Product & Pareto Analysis (80/20 Rule)
+* **High-Impact Products:** Identified the top 20% of products (35 items) that generate 80% of
